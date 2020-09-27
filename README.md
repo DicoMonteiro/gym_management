@@ -17,7 +17,7 @@
 
 #### Front-end
 
-## Desafio Foodfy - Primeira Etapa
+## Desafio Gym Management
 <h2 align="center">
   <img alt="Launchbase - Gym Management - Front-end" src="./gym-management.gif" />
 </h2>
